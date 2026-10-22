@@ -8,6 +8,12 @@ NIDAR is a small browser-based 2D action game developed as a student project for
 
 The player controls a fictional Sikh warrior defending a fictional Punjab village. Defeat five raiders before the 90-second timer expires or the warrior loses all three health points. The game uses stylized, non-graphic combat and a custom-drawn Punjab-inspired setting. It does not depict a specific historical battle or religious event.
 
+## 🎮 Play NIDAR
+
+**[Click here to play the live game](https://aadisankar1149-glitch.github.io/Game-Development-with-AI/)**
+
+If the site has just been published, give GitHub Pages a little time to finish deploying.
+
 ## Play the game
 
 **Controls**
